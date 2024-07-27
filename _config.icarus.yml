@@ -105,16 +105,16 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        首页: /
+        归档: /archives
+        分类: /categories
+        标签: /tags
+        关于: /about
     # Links to be shown on the right of the navigation bar
     links:
-        Download on GitHub:
+        官网:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://turboflint.cn
 # Page footer configurations
 footer:
     # Copyright text
@@ -233,15 +233,15 @@ widgets:
         # Author title
         author_title: Eric Lee的博客
         # Author's current location
-        location: https://flint-hk-1303000458.cos.ap-hongkong.myqcloud.com/dmitriy-demidov-nLMMpynXO2I-unsplash.webp
+        location: 
         # URL or path to the avatar image
-        avatar: 
+        avatar: https://flint-hk-1303000458.cos.ap-hongkong.myqcloud.com/dmitriy-demidov-nLMMpynXO2I-unsplash.webp
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/ericlee517
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
@@ -277,8 +277,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: https://hexo.io
-            Bulma: https://bulma.io
+            前往官网: https://turboflint.cn
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
