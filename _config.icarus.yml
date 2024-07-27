@@ -118,7 +118,7 @@ navbar:
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: © 2019
+    copyright: © 2024
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -229,11 +229,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Eric Lee
         # Author title
-        author_title: Your title
+        author_title: Eric Lee的博客
         # Author's current location
-        location: Your location
+        location: https://flint-hk-1303000458.cos.ap-hongkong.myqcloud.com/dmitriy-demidov-nLMMpynXO2I-unsplash.webp
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -246,7 +246,7 @@ widgets:
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
+                url: https://github.com/ericlee517
             Facebook:
                 icon: fab fa-facebook
                 url: https://facebook.com
