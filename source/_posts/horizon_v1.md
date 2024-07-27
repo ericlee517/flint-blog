@@ -8,6 +8,7 @@ categories:
 
 Horizon 里森从6月份开始制作以来，耗尽了我的时间和精力。尝试过很多办法和库，在保持项目精简的同时也保留了最基础的功能。**用户端完全不使用Node.js，也不使用后端，完全是前端技术。**
 
+<!--more-->
 下图为Horizon 里森 v1.0的完整架构
 
 ![Horizon 里森架构](https://static.turboflint.cn/image/horizon_v1.webp)
