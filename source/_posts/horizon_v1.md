@@ -1,6 +1,6 @@
 ---
 title: Horizon里森 v1架构说明
-time: 2024-07-25
+date: 2024-07-25
 categories:
  - 技术
  - Horizon
