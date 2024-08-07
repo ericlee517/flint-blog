@@ -3,11 +3,11 @@ version: 5.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: https://static.turboflint.cn/image/ericlee.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/4fb9af1d98884a13bbd645fee20be0e9.png
+    favicon: https://static.turboflint.cn/image/ericlee.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
