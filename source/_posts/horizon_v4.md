@@ -1,7 +1,7 @@
 ---
 title: 里森项目制作进度（1）
 date: 2024-08-15
-categoris: 
+categories: 
  - 技术
  - Horizon
 ---
