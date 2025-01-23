@@ -1,6 +1,6 @@
 ---
 title: 2025 内容更新计划全透露
-cover:https://static.turboflint.cn/image/almas-salakhov-c7k6Z8T9sfM-unsplash.jpg
+cover: https://static.turboflint.cn/image/almas-salakhov-c7k6Z8T9sfM-unsplash.jpg
 ---
 
 ![](https://static.turboflint.cn/image/mmexport314e0294183f4933f4ea18b415c29440_1737603204970.png)
